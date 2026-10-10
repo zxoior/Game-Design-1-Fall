@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Fab/Survival_Character/Textures/BackPack/T_Backpack_Normal.uasset
+Content/Fab/Survival_Character/Textures/Eye/T_Eye_Normal.uasset
+Content/Fab/Survival_Character/Textures/Jacket/T_Jacket_BaseColor.uasset
+Content/Fab/Survival_Character/Textures/Jacket/T_Jacket_Normal.uasset
